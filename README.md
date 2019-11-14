@@ -1,1 +1,3 @@
-# Image_Processing\n#1.Star Counting\n#2.Blob Detection Algorithms
+# Image_Processing
+# 1.Star Counting
+# 2.Blob Detection Algorithms
